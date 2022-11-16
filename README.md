@@ -8,4 +8,9 @@
 
 my ![Visitor Count](https://profile-counter.glitch.me/corunb/count.svg) visitor
 
-![Christmas's GitHub stats](https://github-readme-stats.vercel.app/api?username=corunb&show_icons=true&theme=tokyonight)
+<div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
+<div align="center">
+
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=corunb&show_icons=true&theme=tokyonight" />
+
+</div>
