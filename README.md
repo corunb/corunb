@@ -6,7 +6,7 @@
   </a>
 </h1>
 
-my ![Visitor Count](https://profile-counter.glitch.me/corunb/count.svg) visitor
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corunb&show_icons=true&theme=radical)
 
 <div align="center">
 
@@ -14,4 +14,4 @@ my ![Visitor Count](https://profile-counter.glitch.me/corunb/count.svg) visitor
 
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corunb&show_icons=true&theme=radical)
+
