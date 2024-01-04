@@ -13,3 +13,5 @@ my ![Visitor Count](https://profile-counter.glitch.me/corunb/count.svg) visitor
   <img height="160px" src="https://github-readme-stats.vercel.app/api?username=corunb&show_icons=true&theme=tokyonight" />
 
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=corunb&show_icons=true&theme=radical)
